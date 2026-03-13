@@ -1,9 +1,10 @@
 # Results | Scoreboard
-## Recent race winners
+## Recent race losers
 
 ## Scoreboard
 
-
+- GP aus: GR
+- GP Be : MV
 
 ### KLASSEMENT
 
