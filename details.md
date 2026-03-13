@@ -1,3 +1,3 @@
 # Details random racer
 
-Max Verstappen (NED): Red Bull Racing (Ferrari)
+Max Verstappen (NED): Red Bull Racing (Ford)
