@@ -1,5 +1,5 @@
 # Results | Scoreboard
-## Recent race winners
+## Recent race participants
 
 ## Scoreboard
 
