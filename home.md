@@ -1,4 +1,4 @@
-# FORMULA 1:
+# Olympische Winterspelen:
 De applicatie kan:
 - racedata weergeven
 - resultaten en scores weergeven
