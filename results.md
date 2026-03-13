@@ -1,5 +1,14 @@
-# Results | scoreboard
-
+# Results | Scoreboard
 ## Recent race winners
 
-GP Aus: George Russell (UK) (Mercedes)
+## Scoreboard
+
+
+
+### KLASSEMENT
+
+|Rijder|punten|
+|------|------|
+|Max Verstappen|25|
+|Lando Norris|18|
+|Charles Leclerc|15|
